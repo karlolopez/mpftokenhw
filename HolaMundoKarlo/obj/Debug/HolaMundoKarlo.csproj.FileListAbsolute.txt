@@ -1,0 +1,14 @@
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\bin\Debug\HolaMundoKarlo.exe.config
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\bin\Debug\HolaMundoKarlo.exe
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\bin\Debug\HolaMundoKarlo.pdb
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo.csprojAssemblyReference.cache
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\MainWindow.g.cs
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\App.g.cs
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo_MarkupCompile.cache
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo_MarkupCompile.lref
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\MainWindow.baml
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo.g.resources
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo.Properties.Resources.resources
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo.csproj.GenerateResource.cache
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo.exe
+C:\Users\karlo.lopez\source\repos\HolaMundoKarlo\HolaMundoKarlo\obj\Debug\HolaMundoKarlo.pdb
